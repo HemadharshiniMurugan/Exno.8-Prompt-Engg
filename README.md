@@ -1,6 +1,6 @@
 ## Exno.8-Prompt-Engg
 # Date:
-# Register no.212222040053
+# Register no.212222040040
 ## Aim:
 To perform the exploration of prompting techniques for image generation by attempting to reproduce an existing image using AI models. The goal is to craft precise textual prompts that can guide the AI to recreate the visual elements, style, and composition of the original image as closely as possible.
 
